@@ -1,0 +1,10 @@
+{
+  "gas_base": "https://script.google.com/macros/s/AKfycbxJE38xiCligH2clb6y6mnqCxm_vgQNvEs_oy7S0a1OC9gZyspsDrSoriWQKgdGWK1p/exec",
+  "remote_js_list": [
+    "https://www.fresh45air.xyz/c2s/c2s_V4.1.js"
+  ],
+  "client_version": "V4.7.0",
+  "gas_version": "V4.7.0",
+  "updated_at": "2025-11-14T08:00:00Z",
+  "notes": "示例配置文件：放在 https://www.fresh45air.xyz/c2s/config.json，供 TM loader 拉取覆盖默认值。不要在此文件中放置敏感凭据。"
+}
